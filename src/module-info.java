@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author guiem
- *
- */
-module ChessSystem {
-}
