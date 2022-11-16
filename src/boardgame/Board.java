@@ -72,4 +72,9 @@ public class Board {
 		}
 		return piece(position) != null;
 	}
+
+	public Piece add(Piece capturedPiece) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
